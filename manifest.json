@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "github.com/GOGOsu/transfer.sh-web": {
+            "branch": "master"
+        }
+    }
+}
